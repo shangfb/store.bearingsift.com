@@ -98,6 +98,8 @@
   <url><loc>https://store.bearingsift.com/products/fag-7320-b-tvp-uo.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-7330-b-mp-ua.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-801215a.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-801400a.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-804312a-prl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-87428-m.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-b7000-c-t-p4s-ul.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-b7002-c-2rsd-t-p4s-ul.html</loc><priority>0.8</priority></url>
@@ -117,12 +119,19 @@
   <url><loc>https://store.bearingsift.com/products/fag-b7209-c-t-p4s-ul.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-b7211c-t-p4s-ul.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-cpm2513.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f-572805.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-f-801215a-prl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f-801215aprl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f-801804prl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-f-801806-prl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f-801806prl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-f-803675-zl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-f-804312a-prl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-f-80903005.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f-80903005kombi.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-f-809280-prl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f-809280prl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-f566426-h195.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-h2338.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-hc6214m-p63.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-hc7012-e-t-p4s-ul.html</loc><priority>0.8</priority></url>
@@ -188,8 +197,12 @@
   <url><loc>https://store.bearingsift.com/products/fag-xcs7012-e-t-p4s-ul.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-xcs7014-e-t-p4s-ul.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-z-534176-prl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/fag-z-534176prl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-z-540084-tr1.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/fag-z-579905aa06prl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/iko-ge60es.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/iko-lk3050.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/iko-rna4904.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-3006-2z.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-87428m.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-89313m.html</loc><priority>0.8</priority></url>
@@ -234,6 +247,7 @@
   <url><loc>https://store.bearingsift.com/products/ina-f-240002dklfa.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-434604.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-531252.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-f-54293.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-55347002.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-55357501.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-553587-pwtr.html</loc><priority>0.8</priority></url>
@@ -253,6 +267,9 @@
   <url><loc>https://store.bearingsift.com/products/ina-f-8759203nukr.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-897112.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-f-94137.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-gay20-npp-b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-gay25-npp-b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-gay45-krr-b.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-gay50-npp-b.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-ge-160-uk-2rs.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-ge-35-krrb.html</loc><priority>0.8</priority></url>
@@ -330,16 +347,38 @@
   <url><loc>https://store.bearingsift.com/products/ina-sl18-4918.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-sl181892-ec3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-sl19-2317-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zarf2068-tv-a.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zarf2575tn.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zarf50115.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zarf65155lt-v.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklf100200-2rs-xl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklf1762-2rs-pe.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklf2068-2rs-2ap.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zklf2575-2rs.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklf30100-2zpe.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklf3080-2rs.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklf50115-2rs.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zklfa1563-2rs.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zkln0832-2rs.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zkln1034-2rs-pe.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zkln1034-2rs-xl.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ina-zkln1242-2rs-xl.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ina-zkln2557-2rs.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-15101-245.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-22206rhrw33c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-22207rhrw33c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-25590-23.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-30204jr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-30205jr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-30208jr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-30209jr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-30305djr.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-30307jr.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-32012j.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-3585-25.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-3780-20.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-395-394a.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-46t080604-1lftcs76.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-51103.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-607ysx-25-29.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-609a-08-15-ysx.html</loc><priority>0.8</priority></url>
@@ -349,38 +388,87 @@
   <url><loc>https://store.bearingsift.com/products/koyo-614-2935-ysx.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-615-43-59ysx.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-616-2935-ysx.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-616-4351-ysx.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-617-ysx-11-13.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-618ysx-87.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-619-ysx.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-6207-2rscm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-6209zzc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-6304-2rscm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-65uzs418t2-sx-87.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-65uzs418t2x-sx87.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-6810zz.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-6813.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-85uzs419t2x-sx.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/koyo-ac5836.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-crsbe24.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac286142awcs4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac29530037.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac3464g12rs.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac35640037.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac3873w-2cs71.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac3972d2rsf.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac4074w-12cs47.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac4074w-3cs80.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac4074w-6cs61.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-dac4382w-3cs79.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-ee4szzc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-ee9s2rsc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-l45449-10.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-l68149-l68111.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-lm104949-11.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-lm11949-10.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-lm12749-11.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-lm603049-11.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-lm603049-lm603011.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-m88048-10.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/koyo-n205-em.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-25tab06.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-6002zzecm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-6004zze.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-6201zzecm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-6202zzecm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-e5020.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nachi-nn3012m2kc9nap4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-100bnr10styndbblp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-120kbe030.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-1213k.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-130bar10etyndblp4a.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-1607.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-170tmp12.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-2203ddf.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22212eake4c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22216eae4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-22216eake4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22217eae4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22218came4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22244came4-s11.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22309eae4c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22312e1a4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-22314eake4c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22316eae4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22319eae4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-22326camke4-s11.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-2309e.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-23222cke4s11.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-24040came4-s11.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-25tac62b-suc-10bn7b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-2lv85-1ag.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-30tac62bsuc10pn7b.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-3204-c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-3215m.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-35tac72bsuc10pn7b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-40tac72bsuc10pn7b.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-40tac90bsuc10pn7b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-42bwd12.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-45bnr10htynduelp4y.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-45bwd09.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-50kw02.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-50tac100bsuc10pn7b.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-51110.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-51220.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-5311.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-6001zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6007-zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6010-zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6011-c3e.html</loc><priority>0.8</priority></url>
@@ -389,7 +477,9 @@
   <url><loc>https://store.bearingsift.com/products/nsk-6203dduc3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6204ddu.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6204zz.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-6204zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6205zzcm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-6207dduc3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6211dducm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6214-dduc3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6215dducm.html</loc><priority>0.8</priority></url>
@@ -397,10 +487,12 @@
   <url><loc>https://store.bearingsift.com/products/nsk-62208dducm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6244m.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6301ddu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-6305zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6306zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6310-zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6312-dducm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6312-zzcm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-6312zzcm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6315cm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6807dducm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-6811zzcm.html</loc><priority>0.8</priority></url>
@@ -408,47 +500,161 @@
   <url><loc>https://store.bearingsift.com/products/nsk-6907dducm.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7000a5tynv1vdul-p4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7002a5tynv1vdul-p4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7002ctrdulp4y.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7003ctynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7005ctynsul-p4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7007aw.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7010ctynsulp4y.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7012ctynsulp4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7014ctynsulp4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7015a5tynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7017ctynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7018ctynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7019ctynsulp4y.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7201ctynsulp4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7205ctyn-su-p5.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7206ctyn-su-p5.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7211ctynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7314byg.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-75bnr10stynsuelp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7901ctynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7904ctynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-7919a5trsulp4y.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-7924a5tynsulp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-85bnr10.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-95dsf01.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ba222-1swa.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ba240-3wsa.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ba246-2a.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-bd130-1sa.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-bd140-1sa.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-bl314-z.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-bn30-6tvvp5.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-gb-40385-s03.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-hr-32221j.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-hr30305dj.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-hr30307j.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-hr32217j.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-hr32907j.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-krx18x40x545-4-3as.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-n1010btkrcc1p4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-n338m.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-nbc11409.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nj2207et-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-nj307ew.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nn3005cc1p5.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nn3012tkrcc0p5.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nn3016tbkrccop4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-nn3018mbkre44cc1p4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nn3020tbkrccop4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-nn3022tbkrcc1p4.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nu211ewk-c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nu215w.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nu2244m-c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nu2305w-c3.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-nu2318em.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-r14dducm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-rn312m.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ssucf206d1.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ucf206d1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-ucfc204d1.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ucp206d1.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ucp207d1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-ucp212d1.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/nsk-ucp213d1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/nsk-25tac62bsuc10pn7b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-100uzs90.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-130uzs91.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-150752307.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-16024.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-32007.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-36690-36620.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-36691-36620.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-4t-47679-47620.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-4t-hh224335-10.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-4t-30308d.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-4t-30310.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-4t-33113.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-4t-33211.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-4t-34031-34478.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6006llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6008l1cc3p5.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6008zzc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6102529-yrx.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6102529yrx.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6203llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6203zzcm.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6204llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6204zz.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6205llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-621-gxx.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-622-gxx.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6228llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-622gxx21.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6310zzc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-63203-llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-63203lluc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-63206llb.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-63211llbc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6818.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6819zz.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6904llbc3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6913llu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6924zz.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-6938-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-7002ucg-glp4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-7207t2db.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-7314bl1g.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-ac4631.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-ass204nr.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-ba130-1sa.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-ba360-1sa.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-bd130-1sa.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-he2308.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-hh224665-10.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-na4834.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-na6905-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-na6906.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-na6907-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nki2520-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nkx15t2z.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nn3016.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nn3018.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nn3018kc1nap4.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nn3020.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/ntn-nu306x50cs51.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nupk313-nr-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-nupk314-nr-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn205em.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn205m.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn206em.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn206m.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn307em.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn307m.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rn309m.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-rna6908.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-sbx0437u1c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-uk207d1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/ntn-uz228g1p6.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-28150-28300.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-28985-28920.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-368-362a.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-40mb120x28.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/timken-544090-544116.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-6032-c3.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-67983-67920cd.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-74550-74851d.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-ee117063-ee117148.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-ee127095-127135.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-hh224334-hh224314.html</loc><priority>0.8</priority></url>
   <url><loc>https://store.bearingsift.com/products/timken-hm89446-hm89410.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-l865547-l865512.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-ll365348-ll365310.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-lm239530t-902a1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-lm241149nw-lm241110d.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-lm742730t-902a1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-m255449-m255410cd.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-na46790-46720d.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-na56425sw-56650d.html</loc><priority>0.8</priority></url>
+  <url><loc>https://store.bearingsift.com/products/timken-na8575sw-8520d.html</loc><priority>0.8</priority></url>
 </urlset>
