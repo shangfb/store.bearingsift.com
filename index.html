@@ -166,7 +166,6 @@ footer{background:#0f172a;color:#94a3b8;font-size:13px;text-align:center;padding
         let currentBrand = 'ALL';
         let currentPage = 1;
         let filteredList = CATALOG;
-
         function initBrandTabs() {
             const counts = {};
             CATALOG.forEach(m => { counts[m.b] = (counts[m.b] || 0) + 1; });
@@ -177,7 +176,6 @@ footer{background:#0f172a;color:#94a3b8;font-size:13px;text-align:center;padding
             });
             document.getElementById('brandTabs').innerHTML = html;
         }
-
         function filterBrand(brand, btn) {
             currentBrand = brand;
             currentPage = 1;
@@ -185,12 +183,10 @@ footer{background:#0f172a;color:#94a3b8;font-size:13px;text-align:center;padding
             btn.classList.add('active');
             applyFilter();
         }
-
         function onSearchChange() {
             currentPage = 1;
             applyFilter();
         }
-
         function applyFilter() {
             const q = document.getElementById('searchInput').value.toLowerCase().trim();
             filteredList = CATALOG.filter(m => {
@@ -201,25 +197,20 @@ footer{background:#0f172a;color:#94a3b8;font-size:13px;text-align:center;padding
             });
             renderPage();
         }
-
         function goToPage(p) {
             currentPage = p;
             renderPage();
             document.getElementById('catalogTop').scrollIntoView({ behavior: 'smooth' });
         }
-
         function renderPage() {
             const total = filteredList.length;
             const totalPages = Math.max(1, Math.ceil(total / PER_PAGE));
             if (currentPage > totalPages) currentPage = totalPages;
-
             const start = (currentPage - 1) * PER_PAGE;
             const pageItems = filteredList.slice(start, start + PER_PAGE);
-
             document.getElementById('resultCount').innerText = total > 0
                 ? `Showing ${start + 1}–${start + pageItems.length} of ${total} bearings (Page ${currentPage}/${totalPages})`
                 : 'No matching bearings found';
-
             document.getElementById('productGrid').innerHTML = pageItems.map((m, idx) => `
                 <div class="card">
                     <div>
@@ -244,7 +235,6 @@ footer{background:#0f172a;color:#94a3b8;font-size:13px;text-align:center;padding
                     </div>
                 </div>
             `).join('');
-
             const pag = document.getElementById('paginationBar');
             if (totalPages <= 1) { pag.innerHTML = ''; return; }
             let btns = `<button class="page-btn" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>← Prev</button>`;
@@ -254,7 +244,6 @@ footer{background:#0f172a;color:#94a3b8;font-size:13px;text-align:center;padding
             btns += `<button class="page-btn" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next →</button>`;
             pag.innerHTML = btns;
         }
-
         initBrandTabs();
         applyFilter();
     </script>
